@@ -1,4 +1,4 @@
-# AWS Terraform Project
+# AWS Terraform Project:
 
 ## Project Overview
 This Terraform project sets up an AWS infrastructure with:
